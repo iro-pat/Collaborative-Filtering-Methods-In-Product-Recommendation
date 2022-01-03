@@ -1,12 +1,4 @@
-"""
-Run .py on cmd
-I guess you are using Command prompt to parse python files.
 
-Open Anaconda Prompt,
-navigate to the folder containing your python files cd c:\path\to\python\folder
-execute using python ex1.py where ex1.py is your filename
-in the anaconda terminal
-"""
 #packages
 
 import pandas as pd
