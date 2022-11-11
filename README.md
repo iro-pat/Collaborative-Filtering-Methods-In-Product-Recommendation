@@ -21,10 +21,15 @@ Another approach, for making this prediction comes from finding products display
 This project looks into Collaborative Filtering Methods In Product Recommendation.
 The goals were to:
 •	Understand how a recommendations systems works.
+
 •	Which method suit the data we are provided with? (collaborative, content, hybrid)
+
 •	How important is the "rating" as to recognize the customer, product interactions.
+
 •	Which algorithms and methods produce the best output. (Surprise, LightFM library)
+
 •	How to evaluate a product recommendation system? 
+
 •	Are the recommendations produced by this system aligned with the customer's needs?
 
 For the technical part, as to deliver answers to the above goals two different Python libraries were used:
