@@ -45,13 +45,13 @@ Project Structure:
 
 	•	Prior to any model building, looking into our data in the Data_Preprosessing.ipynb Jupyter Notebook was a must, as to understand and adjust the data according to the project’s needs.
 
-	•	Then, in RS1_Surprise.ipynb and by using the Surprise library models it provides, recommendations were produced, evaluated and compared across the different models and model hyperparameter tunings.
+	•	Then, in **RS1_Surprise.ipynb** and by using the Surprise library models it provides, recommendations were produced, evaluated and compared across the different models and model hyperparameter tunings.
 
-	•	The same process took place for LightFM and its embeddings model in RS2_LightFM.ipynb . 
+	•	The same process took place for LightFM and its embeddings model in **RS2_LightFM.ipynb**. 
 
-	•	In Comparison.ipynb, both Surprise and LightFM results are compared as to find out which system outperformed the other.
+	•	In **Comparison.ipynb**, both Surprise and LightFM results are compared as to find out which system outperformed the other.
 
-	•	Also, All_Functions.py is a python file, with all the libraries, packages used and the customed made functioned created for this project.
+	•	Also, **All_Functions.py** is a python file, with all the libraries, packages used and the customed made functioned created for this project.
 
 	•	It does not run separately, but as part of the delivered Jupyter Notebooks, for functionality reasons.
 
