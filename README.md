@@ -20,6 +20,7 @@ Another approach, for making this prediction comes from finding products display
 
 This project looks into Collaborative Filtering Methods In Product Recommendation.
 The goals were to:
+
 •	Understand how a recommendations systems works.
 
 •	Which method suit the data we are provided with? (collaborative, content, hybrid)
