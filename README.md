@@ -1,4 +1,4 @@
-Collaborative Filtering Methods In Product Recommendation
+                                                Collaborative Filtering Methods In Product Recommendation
 
 Nowadays, Product Recommendation is a widely used tool in a variety of areas from music apps to e-shops or pretty much in any platform the user interacts with. Recommendation Systems’ purpose is to attract new customers or to help the current ones by offering suggestions based on habits, interests, prior transactions or even the customer's profile. 
 Recommendation Systems are classified based on: 
